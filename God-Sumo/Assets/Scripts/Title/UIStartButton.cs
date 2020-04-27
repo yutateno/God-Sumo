@@ -7,6 +7,7 @@ public class UIStartButton : MonoBehaviour
 {
     public void Click()
     {
+        SoundManager.SEPlay(SoundManager.ESEAudioClipName.select);
         SceneManager.LoadScene("Difficulty Level");
     }
 }

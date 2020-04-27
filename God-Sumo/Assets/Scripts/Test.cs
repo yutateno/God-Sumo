@@ -7,12 +7,17 @@ public class Test : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log(Manager.CharaID + ", " + Manager.DifficultLevel);
+        
     }
 
     // Update is called once per frame
     void Update()
     {
         
+    }
+
+    public void Click()
+    {
+        SoundManager.SEPlay(SoundManager.ESEAudioClipName.select);
     }
 }

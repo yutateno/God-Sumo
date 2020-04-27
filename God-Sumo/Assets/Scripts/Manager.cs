@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Manager : MonoBehaviour
 {
-    private static int m_difficultLevel = 0;
-    private static int m_charaID = 0;
+    private static int m_difficultLevel;
+    private static int m_charaID;
 
     public static int DifficultLevel
     {
@@ -22,5 +22,8 @@ public class Manager : MonoBehaviour
     private void Start()
     {
         DontDestroyOnLoad(this);
+
+        m_charaID = 0;
+        m_difficultLevel = 0;
     }
 }

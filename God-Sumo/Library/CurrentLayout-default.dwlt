@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 99
+  controlID: 61
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 93
+  controlID: 55
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -303,9 +303,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 249bffff
-      m_LastClickedID: -25820
-      m_ExpandedIDs: 2c9bffff1c9dfffffe9dffffc49effff3c9fffff469fffffacb9fffffab9ffff48baffff96baffff1ebbffff62bbffff70bbffffb6bfffff46c0ffff5ac0ffffd8c0ffffe8c0fffff2c0fffffcc0ffff74c1ffff7ec1ffff88c1ffff92c1ffff9cc1ffffa6c1ffffd2c2ffff74c3ffff80c3ffffe8c3ffffe6c4ffff16c6ffff48cfffff90cfffffbad0ffffd2d0ffff22d1ffffe2d1ffffcce9ffffd6e9ffffe0e9ffffeae9ffff78eaffffb2edffffc8edffff56eeffffaceeffffb6eeffffceeeffffd8eeffff82faffff9cfaffffaafaffff6afbfffff4ffffff4a4b0000fe4c00000c540000b2540000be540000
+      m_SelectedIDs: 164a0000
+      m_LastClickedID: 18966
+      m_ExpandedIDs: 3cefffffe0efffff6afbfffff4fffffff0490000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -406,20 +406,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 65
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scripts
   m_LastFoldersGridSize: 65
   m_LastProjectPath: E:\Documents\Unity\God-Sumo\God-Sumo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c2380000
-    m_LastClickedID: 14530
-    m_ExpandedIDs: 00000000bc380000a4390000ae390000b0390000643b0000405e000000ca9a3b
+    m_SelectedIDs: 2c390000
+    m_LastClickedID: 14636
+    m_ExpandedIDs: 000000001e3900002039000022390000243900002c39000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -447,7 +447,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000bc380000
+    m_ExpandedIDs: 000000001e390000203900002239000024390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
